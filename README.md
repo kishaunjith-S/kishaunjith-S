@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/kishaunjith-S">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kishaunjith+%F0%9F%91%8B;CS+Undergrad+%40+VIT+Chennai;I+build+where+silicon+meets+the+cloud." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Kishaunjith+%F0%9F%91%8B;CS+Undergrad+%40+VIT+Chennai;I+build+where+silicon+meets+the+cloud." alt="Typing SVG" />
   </a>
 </h1>
 
@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/kishaunjith-s-b753b628b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:kishaunjithsenthiljith@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Kishaunjith"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kishaunjith-S&label=Profile%20views&color=58a6ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=kishaunjith-S&label=Profile%20views&color=7aa2f7&style=for-the-badge" />
 </p>
 
 ---
@@ -114,16 +114,16 @@ side_quest: Avionics @ Team Ignition 🚀
 ### 📊 GitHub in Numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kishaunjith-S&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaunjith-S&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kishaunjith-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaunjith-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kishaunjith-S&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=kishaunjith-S&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishaunjith-S&theme=gruvbox&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kishaunjith-S&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
 </p>
 
 ---
