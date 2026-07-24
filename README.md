@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kishaunjithsenthiljith@gmail.com"><img src="https://img.shields.io/badge/email-C1272D?style=flat-square&logo=gmail&logoColor=F5E6D3&labelColor=1a1410" /></a>
-  <a href="https://linkedin.com/in/kishaunjith-s-b753b628b/"><img src="https://img.shields.io/badge/linkedin-8B2635?style=flat-square&logo=linkedin&logoColor=F5E6D3&labelColor=1a1410" /></a>
-  <a href="https://leetcode.com/u/Kishaunjith"><img src="https://img.shields.io/badge/leetcode-F4A537?style=flat-square&logo=leetcode&logoColor=1a1410&labelColor=1a1410" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kishaunjith-S&label=visitors&color=F4A537&style=flat-square&labelColor=1a1410" />
+  <a href="mailto:kishaunjithsenthiljith@gmail.com"><img src="https://img.shields.io/badge/email-C1272D?style=for-the-badge&logo=gmail&logoColor=F5E6D3" /></a>
+  <a href="https://linkedin.com/in/kishaunjith-s-b753b628b/"><img src="https://img.shields.io/badge/linkedin-8B2635?style=for-the-badge&logo=linkedin&logoColor=F5E6D3" /></a>
+  <a href="https://leetcode.com/u/Kishaunjith"><img src="https://img.shields.io/badge/leetcode-F4A537?style=for-the-badge&logo=leetcode&logoColor=1a1410" /></a>
+  <a href="https://github.com/kishaunjith-S"><img src="https://img.shields.io/badge/github-1a1410?style=for-the-badge&logo=github&logoColor=F4A537" /></a>
 </p>
 
 <br>
