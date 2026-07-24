@@ -1,162 +1,160 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     Kishaunjith S · GitHub                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════ -->
+<!--             Kishaunjith S · late-night builder · github            -->
+<!-- ═════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kishaunjith%20S&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%C2%B7%20VIT%20Chennai%20%C2%B7%20I%20build%20where%20silicon%20meets%20the%20cloud&descAlignY=60&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1410,50:8B2635,100:F4A537&height=200&section=header&text=Kishaunjith%20S&fontSize=64&fontColor=F5E6D3&animation=fadeIn&fontAlignY=42&desc=building%20quietly%2C%20mostly%20at%20night&descAlignY=68&descSize=15" />
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&multiline=false&width=700&lines=Research+Intern+%40+IIT+Kharagpur;GAIP+Fellow+%40+NUS+Singapore;Avionics+Engineer+%40+Team+Ignition+%F0%9F%9A%80;Patent+Filed+%C2%B7+Indian+Patent+Office" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=F4A537&center=true&vCenter=true&width=680&lines=Research+Intern+%40+IIT+Kharagpur;GAIP+Fellow+%40+NUS+Singapore;Avionics+Engineer+%40+Team+Ignition;Patent+Filed+%C2%B7+Indian+Patent+Office" />
 </p>
 
 <p align="center">
-  <a href="mailto:kishaunjithsenthiljith@gmail.com"><img src="https://img.shields.io/badge/-Email-F72585?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/kishaunjith-s-b753b628b/"><img src="https://img.shields.io/badge/-LinkedIn-7209B7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Kishaunjith"><img src="https://img.shields.io/badge/-LeetCode-4CC9F0?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=kishaunjith-S&label=Profile+Views&color=F72585&style=for-the-badge" />
+  <a href="mailto:kishaunjithsenthiljith@gmail.com"><img src="https://img.shields.io/badge/email-C1272D?style=flat-square&logo=gmail&logoColor=F5E6D3&labelColor=1a1410" /></a>
+  <a href="https://linkedin.com/in/kishaunjith-s-b753b628b/"><img src="https://img.shields.io/badge/linkedin-8B2635?style=flat-square&logo=linkedin&logoColor=F5E6D3&labelColor=1a1410" /></a>
+  <a href="https://leetcode.com/u/Kishaunjith"><img src="https://img.shields.io/badge/leetcode-F4A537?style=flat-square&logo=leetcode&logoColor=1a1410&labelColor=1a1410" /></a>
+  <img src="https://komarev.com/ghpvc/?username=kishaunjith-S&label=visitors&color=F4A537&style=flat-square&labelColor=1a1410" />
 </p>
 
-<img src="https://raw.githubusercontent.com/mayankchoubey1/mayankchoubey1/refs/heads/main/media/rainbow.png" width="100%" />
+<br>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; whoami
+## &nbsp;·&nbsp; whoami
 
 ```yaml
-name:       Kishaunjith S
-role:       CS Undergrad @ VIT Chennai (CGPA 9.14)
-mission:    build systems that go all the way — sensor → cloud → UI
-focus:      [ IoT · Embedded · Backend · Cloud ]
-now:        Research Intern @ IIT Kharagpur (Kriti Summer Program)
-recent:     NUS Singapore · GAIP · Top 20% Commendation
-patent:     Indian Patent Office · Application No. 202641047666
-fuel:       chai + Fira Code + soldering iron
-reach_out:  kishaunjithsenthiljith@gmail.com
+name:     Kishaunjith S
+role:     CS Undergrad @ VIT Chennai  ·  CGPA 9.14
+mission:  build systems that go all the way — sensor → cloud → UI
+focus:    [ IoT · Embedded · Backend · Cloud ]
+now:      Research Intern @ IIT Kharagpur (Kriti Program)
+recent:   NUS Singapore · GAIP · Top 20% Commendation
+patent:   Indian Patent Office · No. 202641047666
+fuel:     chai · fira code · a soldering iron that never cools down
+reach:    kishaunjithsenthiljith@gmail.com
 ```
 
-<img src="https://raw.githubusercontent.com/mayankchoubey1/mayankchoubey1/refs/heads/main/media/rainbow.png" width="100%" />
+I like problems that force you to think across the whole stack — from soldering
+headers on an Arduino at 2 a.m. to figuring out why CloudFront is the only thing
+that gets past the campus firewall.
 
-## 🛠️ &nbsp; Arsenal
+<br>
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-9C27B0?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F57C00?style=flat-square&logo=openjdk&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-
-**Backend & Web**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-00C853?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-00D8FF?style=flat-square&logo=react&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-43A047?style=flat-square&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=black)
-![EC2](https://img.shields.io/badge/EC2-FF6F00?style=flat-square&logo=amazonec2&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-3F51B5?style=flat-square&logo=amazonrds&logoColor=white)
-![CloudFront](https://img.shields.io/badge/CloudFront-8E24AA?style=flat-square&logo=amazoncloudfront&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Embedded & Databases**
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![RPi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=flat-square&logo=firebase&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/mayankchoubey1/mayankchoubey1/refs/heads/main/media/rainbow.png" width="100%" />
-
-## 🚀 &nbsp; Featured Missions
+## &nbsp;·&nbsp; arsenal
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🐟 [Smart Aquaponics](https://github.com/kishaunjith-S/smart-aquaponics)
-> *IIT Kharagpur · Kriti Summer Program*
+**languages**
 
-End-to-end 4-tier IoT platform. Arduino sensors → Raspberry Pi edge gateway → FastAPI on AWS EC2/RDS → Next.js dashboard on Vercel. Integrated Gemini 2.5 Flash for AI-augmented diagnostics.
+![C](https://img.shields.io/badge/C-1a1410?style=flat-square&logo=c&logoColor=F4A537)
+![C++](https://img.shields.io/badge/C++-1a1410?style=flat-square&logo=cplusplus&logoColor=F4A537)
+![Python](https://img.shields.io/badge/Python-1a1410?style=flat-square&logo=python&logoColor=F4A537)
+![Java](https://img.shields.io/badge/Java-1a1410?style=flat-square&logo=openjdk&logoColor=F4A537)
+![JS](https://img.shields.io/badge/JavaScript-1a1410?style=flat-square&logo=javascript&logoColor=F4A537)
+![TS](https://img.shields.io/badge/TypeScript-1a1410?style=flat-square&logo=typescript&logoColor=F4A537)
 
-`Python` `FastAPI` `Next.js` `AWS` `Arduino` `Gemini`
+**backend & web**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1410?style=flat-square&logo=fastapi&logoColor=F4A537)
+![Next.js](https://img.shields.io/badge/Next.js-1a1410?style=flat-square&logo=nextdotjs&logoColor=F4A537)
+![React](https://img.shields.io/badge/React-1a1410?style=flat-square&logo=react&logoColor=F4A537)
+![Node](https://img.shields.io/badge/Node.js-1a1410?style=flat-square&logo=nodedotjs&logoColor=F4A537)
+![Angular](https://img.shields.io/badge/Angular-1a1410?style=flat-square&logo=angular&logoColor=F4A537)
 
 </td>
 <td valign="top" width="50%">
 
-### 🚀 [ARK — Rocketry Kernel](https://github.com/kishaunjith-S/ARK-Advanced-Rocketry-Kernel)
-> *Team Ignition · Flight Computer*
+**cloud & devops**
 
-Modular state-based kernel managing launch, flight, and recovery phases with real-time IMU + GPS sensor fusion for propulsion testing and recovery deployment.
+![AWS](https://img.shields.io/badge/AWS-1a1410?style=flat-square&logo=amazonwebservices&logoColor=F4A537)
+![EC2](https://img.shields.io/badge/EC2-1a1410?style=flat-square&logo=amazonec2&logoColor=F4A537)
+![RDS](https://img.shields.io/badge/RDS-1a1410?style=flat-square&logo=amazonrds&logoColor=F4A537)
+![CloudFront](https://img.shields.io/badge/CloudFront-1a1410?style=flat-square&logo=amazoncloudfront&logoColor=F4A537)
+![Vercel](https://img.shields.io/badge/Vercel-1a1410?style=flat-square&logo=vercel&logoColor=F4A537)
 
-`C` `C++` `RP2040` `ESP32` `Embedded`
+**embedded & databases**
+
+![Arduino](https://img.shields.io/badge/Arduino-1a1410?style=flat-square&logo=arduino&logoColor=F4A537)
+![RPi](https://img.shields.io/badge/Raspberry_Pi-1a1410?style=flat-square&logo=raspberrypi&logoColor=F4A537)
+![ESP32](https://img.shields.io/badge/ESP32-1a1410?style=flat-square&logo=espressif&logoColor=F4A537)
+![Postgres](https://img.shields.io/badge/PostgreSQL-1a1410?style=flat-square&logo=postgresql&logoColor=F4A537)
+![Firebase](https://img.shields.io/badge/Firebase-1a1410?style=flat-square&logo=firebase&logoColor=F4A537)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## &nbsp;·&nbsp; selected work
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### [smart-aquaponics](https://github.com/kishaunjith-S/smart-aquaponics)
+*iit kharagpur · kriti summer program*
+
+end-to-end 4-tier iot platform. arduino sensors → raspberry pi edge gateway → fastapi on aws ec2/rds → next.js dashboard on vercel. gemini 2.5 flash for ai-augmented diagnostics.
+
+`python` `fastapi` `next.js` `aws` `arduino`
+
+</td>
+<td valign="top" width="50%">
+
+### [ARK — rocketry kernel](https://github.com/kishaunjith-S/ARK-Advanced-Rocketry-Kernel)
+*team ignition · flight computer*
+
+modular state-based kernel managing launch, flight, and recovery phases with real-time imu + gps sensor fusion for propulsion testing and recovery deployment.
+
+`c` `c++` `rp2040` `esp32` `embedded`
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-### 🎤 [Silent Stage](https://github.com/kishaunjith-S/Silent_stage)
-> *NUS Singapore · GAIP Program*
+### [silent stage](https://github.com/kishaunjith-S/Silent_stage)
+*nus singapore · gaip program*
 
-AI-driven accessibility system generating sign-language avatars of live performers for the deaf community. Transformer-based sequence models with pretrained vision + language backbones.
+ai-driven accessibility system generating sign-language avatars of live performers for the deaf community. transformer-based models with pretrained vision + language backbones.
 
-`TypeScript` `Transformers` `Accessibility`
+`typescript` `transformers` `accessibility`
 
 </td>
 <td valign="top" width="50%">
 
-### 🔐 [Secure Chat + GAN Stego](https://github.com/kishaunjith-S/secure-chat-steganography)
-> *Angular · Firebase*
+### [secure-chat + gan-stego](https://github.com/kishaunjith-S/secure-chat-steganography)
+*angular · firebase*
 
-Real-time chat that auto-generates a unique GAN cover image per message, embeds AES-encrypted payload inside it, and decodes at the receiver — no manual image selection.
+real-time chat that auto-generates a unique gan cover image per message, embeds aes-encrypted payload inside it, and decodes at the receiver — no manual image selection.
 
-`Angular` `Firebase` `AES` `GANs`
+`angular` `firebase` `aes` `gans`
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/mayankchoubey1/mayankchoubey1/refs/heads/main/media/rainbow.png" width="100%" />
+<br>
 
-## 📊 &nbsp; The Numbers
+## &nbsp;·&nbsp; the numbers
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kishaunjith-S&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=ffffff" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaunjith-S&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=F72585&text_color=ffffff" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=kishaunjith-S&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1410&title_color=F4A537&icon_color=C1272D&text_color=F5E6D3&ring_color=F4A537" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaunjith-S&layout=compact&hide_border=true&langs_count=8&bg_color=1a1410&title_color=F4A537&text_color=F5E6D3" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kishaunjith-S&theme=radical&hide_border=true&background=0D1117&stroke=F72585&ring=4CC9F0&fire=F72585&currStreakLabel=4CC9F0" />
+  <img src="https://streak-stats.demolab.com?user=kishaunjith-S&hide_border=true&background=1a1410&stroke=F4A537&ring=F4A537&fire=C1272D&currStreakLabel=F4A537&sideNums=F5E6D3&sideLabels=F5E6D3&dates=F5E6D3&currStreakNum=F5E6D3" />
+</p>
+
+<br>
+
+<p align="center">
+  <i>from soldering iron to cloudfront —<br>i like systems that go all the way through.</i>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kishaunjith-S&theme=radical&no-frame=true&column=7&margin-w=10&no-bg=true" />
-</p>
-
-<img src="https://raw.githubusercontent.com/mayankchoubey1/mayankchoubey1/refs/heads/main/media/rainbow.png" width="100%" />
-
-<p align="center">
-  <i>💡 <b>"From soldering iron to CloudFront — I like systems that go all the way through."</b></i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F4A537,50:8B2635,100:1a1410&height=80&section=footer" />
 </p>
